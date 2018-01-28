@@ -46,9 +46,7 @@ Make sure SSH is enabled on the Raspberry Pi. Have the file path in your java In
 
 ## Screenshots
 
-![alt text](https://user-images.githubusercontent.com/18488979/31190909-70a16a76-a934-11e7-9c94-9b2a032688f8.png)
-![alt text](https://user-images.githubusercontent.com/18488979/31190910-70a230c8-a934-11e7-8678-b086b2ab5fc6.png)
-![alt text](https://user-images.githubusercontent.com/18488979/31190911-70a3710e-a934-11e7-95ba-419a7655e5a2.png)
-![alt text](https://user-images.githubusercontent.com/18488979/31190912-70a76ff2-a934-11e7-8808-cc020f31b6c5.png)
-![alt text](https://user-images.githubusercontent.com/18488979/31190914-70a8094e-a934-11e7-85c0-877027dc927f.png)
-![alt text](https://user-images.githubusercontent.com/18488979/31190913-70a7fa44-a934-11e7-938c-1aac776304de.png)
+![alt text](https://user-images.githubusercontent.com/18488979/35488256-6554f79c-047d-11e8-917a-2727d137a683.png)
+![alt text](https://user-images.githubusercontent.com/18488979/35488257-656aa736-047d-11e8-94de-4f281cd756b4.jpg)
+![alt text](https://user-images.githubusercontent.com/18488979/35488258-6636343c-047d-11e8-85dc-166942cd9ed2.jpg)
+![alt text](https://user-images.githubusercontent.com/18488979/35488259-665fc59a-047d-11e8-99eb-f71efce53b8c.jpg)
