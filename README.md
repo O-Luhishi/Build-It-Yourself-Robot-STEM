@@ -7,6 +7,7 @@ Written by Oluhishi & Parth Sharma - [http://Zonosnetworks.com]
 This is the code for a "Science Technology Engineering Mathemetics (STEM) Build-It-Yourself Robot", which tries to encourage kids of all ages to get into STEM. This page has the source code for the Interface used as well as the program files to actually move the robot. The interface code will be able to work on any computer which has Java installed, however the python files which move the stepper motors will need to be downloaded on to the Raspberry Pi. This code works alongside the specific 3D printed chassis to build the robot.
 
 ### Requirements:
+          - jsch-0.1.54.jar (SSH Module)
           - Python 3.X
           - Raspberry Pi & SSH Login
           - 2 Stepper Motors
