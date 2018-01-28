@@ -30,14 +30,14 @@ To compile and run this program you will need Java installed.
 
 Make sure SSH is enabled on the Raspberry Pi. Have the file path in your java Interface file set according to where you have downloaded the python files on your Pi. 
 
-# Stepper Motor A
+### Stepper Motor A
 
 - Input 1: GPIO 11
 - Input 2: GPIO 15
 - Input 3: GPIO 16
 - Input 4: GPIO 18
 
-# Stepper Motor B
+### Stepper Motor B
 
 - Input 1: GPIO 32
 - Input 2: GPIO 17
