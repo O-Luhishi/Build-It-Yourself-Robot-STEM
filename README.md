@@ -1,6 +1,6 @@
 # Build It Yourself STEM Robot
 
-Written by Oluhishi [http://Zonosnetworks.com]
+Written by Oluhishi & Parth Sharma - [http://Zonosnetworks.com]
 
 ## Overview
 
